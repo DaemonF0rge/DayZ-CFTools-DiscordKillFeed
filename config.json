@@ -1,0 +1,11 @@
+{
+	"Port": 8080,
+	"ShowDistance": true,
+    "Killfeeds": [
+        {
+            "Name": "US1",
+            "Webhook": "You're Discord Webhook"
+            "Secret": "You're CF Tools Secret"
+        }
+    ]
+}
